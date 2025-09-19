@@ -1,0 +1,7 @@
+select 
+o.order_date,
+o.order_id,
+sum(oi.total_price) as total_price
+from {{ ref('stg_orders') }} o
+join {{ ref('stg_order_items') }} oi on o.order_id = oi.order_id
+group by 1, 2
