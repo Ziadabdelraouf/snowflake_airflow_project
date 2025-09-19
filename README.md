@@ -102,21 +102,8 @@ airflow standalone
 ✅ Validate with dbt tests →  
 ✅ Orchestrate daily runs via Airflow  
 
----
-
-## 🌟 Future Improvements  
-- Add CI/CD with **GitHub Actions**  
-- Implement **data quality monitoring** (Great Expectations)  
-- Deploy Airflow on **Docker / Kubernetes**  
-
----
-
-## 🤝 Contributing  
-Feel free to fork this repo, open issues, or submit PRs to enhance the project.  
-
----
 
 ## 📬 Contact  
 👤 **Ziad Abdelraouf**  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📂 [GitHub](https://github.com/your-username)  
+- 💼 [LinkedIn](www.linkedin.com/in/ziad-abdelraouf)  
+- 📂 [GitHub](https://github.com/Ziadabdelraouf)  
