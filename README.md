@@ -102,8 +102,3 @@ airflow standalone
 ✅ Validate with dbt tests →  
 ✅ Orchestrate daily runs via Airflow  
 
-
-## 📬 Contact  
-👤 **Ziad Abdelraouf**  
-- 💼 [LinkedIn](www.linkedin.com/in/ziad-abdelraouf)  
-- 📂 [GitHub](https://github.com/Ziadabdelraouf)  
